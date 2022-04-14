@@ -6,4 +6,4 @@
 - 🔭 I specialize in NLP and content generation
 - 💡 I admire what kind of revolution is coming at the intersection of Technology and Media/Entertainment
 - 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/melnikoff-oleg/), [Telegram](https://telegram.me/melnikoff_oleg))
-- 😄 Fun fact: I've created Instagram bot that follows friends of my friends and got 800 subscribers that way [My Insta](https://instagram.com/melnikoff_oleg))
+- 😅 Fun fact: I've created Instagram bot that follows friends of my friends and got 800 subscribers that way [My Instagram](https://instagram.com/melnikoff_oleg)
