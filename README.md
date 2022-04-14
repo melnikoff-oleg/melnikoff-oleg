@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on my Bachelor's thesis at [JetBrains](https://jetbrains.com/)
+- 💻 I’m Machine Learning Engineer currently working on my Bachelor's thesis at [JetBrains](https://jetbrains.com/)
 - 🧠 Previously I was working at Yandex YaLM team which handles transformer models used for voice assistant Yandex.Alice and much more
 - 👨🏻‍🎓 I’m currently a 4th year student at [Maths & CS dept. at SPBU](https://math-cs.spbu.ru/en/)
 - 🔭 I specialize in NLP and content generation
