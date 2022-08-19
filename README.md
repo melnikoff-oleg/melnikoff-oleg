@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Previously DL NLP Engineer at [JetBrains](https://jetbrains.com/)
+- 💻 Previously DL NLP Engineer at [JetBrains](https://jetbrains.com/) developing spellcheck system as my Bachelor's Thesis
 - 🧠 Previously DL NLP Engineer at [Yandex](https://yandex.com/) YaLM team which handles most of transformer neural models in the company
 - 👨🏻‍🎓 I’m currently a 4th year student at [Maths & CS dept. at SPBU](https://math-cs.spbu.ru/en/)
 - 🔭 I specialize in NLP and content generation
