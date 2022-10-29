@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 - 💎 Currently Quantitative Researcher at [Pinely](https://pinely.com/) developing profitable HFT strategies
 - 💻 Previously DL NLP Engineer at [JetBrains](https://jetbrains.com/) developing spellcheck system as my Bachelor's Thesis
