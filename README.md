@@ -1,4 +1,4 @@
-### Hi there 👋🏻
+### Hi, Oleg here 👋🏻
 
 - Prev Quantitative Researcher at [Pinely](https://pinely.com/) - developed 3 profitable high-frequency trading strategies using neural nets
 - Prev Deep Learning Engineer at [JetBrains](https://jetbrains.com/) - developed a spellcheck system for IDEs
