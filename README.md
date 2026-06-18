@@ -7,4 +7,3 @@
 - 💻 Ex Deep Learning Engineer at [Yandex](https://yandex.com/) - developed a people search algorithm inside the main LLM team
 - 👨🏼‍🎓 Graduated Bachelors at [Maths & CS at SPBU](https://math-cs.spbu.ru/en/)
 - 📫 How to reach me: [Email](oleg@buildauthority.ai), [Telegram](https://telegram.me/melnikoff_oleg), [Linkedin](https://www.linkedin.com/in/olegai/)
-- 😅 Fun fact: I've created an [Instagram](https://instagram.com/melnikoff_oleg) bot that follows friends of my friends and got 1000 subscribers that way
